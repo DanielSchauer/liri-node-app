@@ -1,2 +1,1 @@
-# Swagger JSON
-This is a swagger JSON built by the [swagger-codegen](https://github.com/swagger-api/swagger-codegen) project.
+This app is incomplete, I did all that I could to complete it, but it was to hard for me to get through. It is my fault that I did not reach out to you guys for assistance. This time I will ask for assistance in the future if I am stuck.
